@@ -1,0 +1,1 @@
+{"animal":false,"name":"peter obvarious jones otlewski","password":"shenanigan174","hobbies":["reading","writing","snowboarding","cat petting"]}
